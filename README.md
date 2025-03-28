@@ -25,7 +25,7 @@ public class PeselValidator {
 }
 ```
 
-📌 Wskazówka: Algorytm wyliczania sumy kontrolnej znajdziesz [tutaj](https://obywatel.gov.pl/pl/dokumenty-i-dane-osobowe/czym-jest-numer-pesel)
+📌 Wskazówka: Algorytm wyliczania sumy kontrolnej znajdziesz [tutaj](https://www.gov.pl/web/gov/czym-jest-numer-pesel)
 
 ---
 
